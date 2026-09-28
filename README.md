@@ -6,24 +6,15 @@ I am a passionate Frontend Developer from Armenia, focused on building clean, re
 --
 
 ### 🛠️ Technologies & Tools
-<p align=“left”>
-  <img src=“https://githubusercontent.com” alt=“html5” width=“40” height=“40”/> &nbsp;
-  <img src=“https://githubusercontent.com” alt=“css3” width=“40” height=“40”/> &nbsp;
-  <img src=“https://githubusercontent.com” alt=“javascript” width=“40” height=“40”/> &nbsp;
-  <img src=“https://githubusercontent.com” alt=“react” width=“40” height=“40”/> &nbsp;
-  <img src=“https://githubusercontent.com” alt=“git” width=“40” height=“40”/>
-</p>
+Here are the technologies I work with to bring web projects to life:
+
+* 🌐 **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js
+* 🎨 **Styling:** Responsive Web Design, Flexbox, CSS Grid
+* 🔧 **Tools & Systems:** Git, GitHub, NPM
 
 —
 
-### 📊 GitHub Stats
-📡 Here is a quick look at my GitHub activity:
-
-![Serob’s GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
-
-—
-
-### 📬 Connect with me
-* 💼 *Freelance:* Available for remote work and projects.
-githubusercontent.com
+### 🚀 About Me
+* 💼 **Freelance:** Available for remote work, small projects, and static website development.
+* 🌱 **Learning:** Constantly improving my React ecosystem knowledge and exploring modern frontend practices.
+* 📬 **Connect:** Feel free to reach out to me for collaborations!
